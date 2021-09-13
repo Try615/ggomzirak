@@ -7,4 +7,4 @@
 > AWS RDS, S3 관련 ENDPOINT, ID, PW, KEY값들 지움.
 > 빌드파일 미참조.
 
-![image](/uploads/50b6cbd16f7b15356db650924c3c93d6/image.png)
+![캡처](/uploads/a69f963fee574376d2c408b6f1bed5a7/캡처.JPG)
