@@ -1,0 +1,16 @@
+##S3 정보
+cloud.aws.credentials.accessKey: AKIAWNMF7LNU735UT46P
+cloud.aws.credentials.secretKey: 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
+cloud.aws.s3.bucket: ggomzirakimg
+cloud.aws.region.static: ap-northeast-2
+cloud.aws.stack.auto: false
+
+##Amazon RDS with MySQL 정보
+    EndPoint(Hostname) : "{ENDPOINT}"
+    Port : 3306
+    ID : "{ID}"
+    Password : "{PASSWORD}"
+spring.datasource.url=jdbc:mysql://"{ENDPOINT}":3306/ggomzirak_db?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Seoul&zeroDateTimeBehavior=convertToNull&rewriteBatchedStatements=true
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+spring.datasource.hikari.username="{ID}"
+spring.datasource.hikari.password="{PASSWORD}"
