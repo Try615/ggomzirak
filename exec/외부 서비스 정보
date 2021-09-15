@@ -1,6 +1,6 @@
 ##S3 정보
-cloud.aws.credentials.accessKey: AKIAWNMF7LNU735UT46P
-cloud.aws.credentials.secretKey: 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
+cloud.aws.credentials.accessKey: "{ACCESS_KEY}"
+cloud.aws.credentials.secretKey: "{SECRET_KEY}"
 cloud.aws.s3.bucket: ggomzirakimg
 cloud.aws.region.static: ap-northeast-2
 cloud.aws.stack.auto: false
