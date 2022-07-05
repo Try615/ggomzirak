@@ -28,6 +28,17 @@ ___
 - 라이브 스트리밍 기능을 통해 실시간으로 소통하며 정보 공유.
 - 많은 시청자 수를 가진 라이브 강조.
 
+<br>
+
+|기능&nbsp;&nbsp;&nbsp;&nbsp;|GIF|
+|:--|:--:|
+|팁 게시글 등록|<img src="https://user-images.githubusercontent.com/5960472/177418416-0e46c685-3d84-41f4-9900-8895ddc12aee.gif" width="80%">|
+|팁 짧은 영상 등록&nbsp;&nbsp;|<img src="https://user-images.githubusercontent.com/5960472/177415352-e5c05bf8-73a2-4f0a-92f8-08d5f2cca059.gif" width="80%">|
+|팁 Q&A|<img src="https://user-images.githubusercontent.com/5960472/177418870-e0240684-0613-41d3-83ec-ee8451cfa77e.gif" width="80%">|
+|팁 라이브|<img src="https://user-images.githubusercontent.com/5960472/177419879-cb6acc22-862e-4436-932f-320910f3eead.gif" width="80%">|
+
+
+
 <br><br>
 <div align="center">
 <image width="80%", src="https://user-images.githubusercontent.com/5960472/177406757-7d153f43-3b4f-4070-ab20-7a49c3de7647.png">
