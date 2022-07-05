@@ -80,8 +80,21 @@ ___
 > WebRTC을 구현한 OpenVidu를 이용한 라이브 스트리밍을 Spring Boot를 사용해 라이브 관리, 라이브 녹화 관리 등의 기능을 RestAPI로 구현.
 - 업체로부터 도메인을 구매해 웹서비스 배포. 제공받았던 EC2 만료되면서 서비스 종료.  
 
-<br>
-### 작업 코드  
->    
->    
->    
+<br>  
+
+### 백엔드 작업 코드  
+
+- Controller  
+> [LiveController.java](https://github.com/Try615/ggomzirak/blob/main/backend/src/main/java/com/ggomzirak/controller/LiveController.java)
+- Entity  
+> [Live.java](https://github.com/Try615/ggomzirak/blob/main/backend/src/main/java/com/ggomzirak/db/entity/Live.java)  
+- Repository  
+> [LiveRepository.java](https://github.com/Try615/ggomzirak/blob/main/backend/src/main/java/com/ggomzirak/db/repository/LiveRepository.java)  
+> [LiveRepositorySupport.java](https://github.com/Try615/ggomzirak/blob/main/backend/src/main/java/com/ggomzirak/db/repository/LiveRepositorySupport.java)  
+- Dto
+> [LiveInfoPostReq.java](https://github.com/Try615/ggomzirak/blob/main/backend/src/main/java/com/ggomzirak/dto/LiveInfoPostReq.java)  
+> [LiveRecordReq.java](https://github.com/Try615/ggomzirak/blob/main/backend/src/main/java/com/ggomzirak/dto/LiveRecordReq.java)  
+> [LiveSessionReq.java](https://github.com/Try615/ggomzirak/blob/main/backend/src/main/java/com/ggomzirak/dto/LiveSessionReq.java)  
+- Service
+> [LiveService.java](https://github.com/Try615/ggomzirak/blob/main/backend/src/main/java/com/ggomzirak/service/LiveService.java)  
+> [LiveServiceImpl.java](https://github.com/Try615/ggomzirak/blob/main/backend/src/main/java/com/ggomzirak/service/LiveServiceImpl.java)  
