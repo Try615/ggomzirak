@@ -35,7 +35,9 @@ ___
 |팁 게시글 등록|<img src="https://user-images.githubusercontent.com/5960472/177418416-0e46c685-3d84-41f4-9900-8895ddc12aee.gif" width="80%">|
 |팁 짧은 영상 등록&nbsp;&nbsp;|<img src="https://user-images.githubusercontent.com/5960472/177415352-e5c05bf8-73a2-4f0a-92f8-08d5f2cca059.gif" width="80%">|
 |팁 Q&A|<img src="https://user-images.githubusercontent.com/5960472/177418870-e0240684-0613-41d3-83ec-ee8451cfa77e.gif" width="80%">|
-|팁 라이브|<img src="https://user-images.githubusercontent.com/5960472/177419879-cb6acc22-862e-4436-932f-320910f3eead.gif" width="80%">|
+|팁 라이브|(이미지 임시 블라인드)|
+
+<!-- <img src="https://user-images.githubusercontent.com/5960472/177419879-cb6acc22-862e-4436-932f-320910f3eead.gif" width="80%"> -->
 
 
 
